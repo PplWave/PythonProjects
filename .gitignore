@@ -1,0 +1,8 @@
+# Ignore Pytest Cache Directory
+.pytest_cache/
+
+# Ignore VSCode Data
+.vscode/
+
+# Ignore Pycache Files
+__pycache__/
